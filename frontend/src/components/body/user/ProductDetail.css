@@ -1,0 +1,13 @@
+.carousel{
+    width: 90%;
+    margin-left: 5%;
+}
+
+h2{
+    padding: 20px;
+    text-align: center;
+}
+
+.FormSelect .col{
+    text-align: left;
+}
